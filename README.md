@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ginaseo
 
 - 🌱 I’m currently learning Java, C, Python etc..
-- 📫 How to reach me via e-mail(iamginaseo@gmail.com)
+- 📫 How to reach me via e-mail: iamginaseo@gmail.com
 
 <!---
 - 💞️ I’m looking to collaborate on ...
