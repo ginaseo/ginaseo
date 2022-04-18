@@ -1,8 +1,8 @@
-<h1> :hatching_chick: Gina Seo :hatching_chick: </h1>
-
+<h3> :hatching_chick: Gina Seo :hatching_chick: </h3> 
+<br>
 
 [![Gina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginaseo)](https://github.com/ginaseo/github-readme-stats)
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginaseo)](https://github.com/ginaseo/github-readme-stats)
 
 [![Solved.ac
@@ -23,3 +23,4 @@
 ginaseo/ginaseo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+ 
