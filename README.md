@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gina Seo
+# Jinha (Gina) Seo
 
 Backend Engineer  
 Java · Spring Boot · AI-assisted Development
