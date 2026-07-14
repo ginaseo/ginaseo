@@ -5,7 +5,7 @@
 Backend Engineer  
 Java · Spring Boot · AI-assisted Development
 
-🌐 Portfolio  
+🌐 Resume  
 https://ginaseo.github.io/dev-gina
 
 </div>
